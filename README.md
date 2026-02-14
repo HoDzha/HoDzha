@@ -1,9 +1,9 @@
 
 - 👋 Привет, меня зовут Халил Хайруллин
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Python and Prompt engeneering
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me - mail hodzha at gmail.com
+- 👀 Я интересуюсь компьтерными  науками, ИИ, применению ИИ в жизни и решении вопросов бизнеса с помощью ИИ
+- 🌱 Учусь в Университете Зерокодинга на кусах по Python и Промпт - инжениринг
+- 💞️ Здесь собраны мои учебные проекты
+- 📫 Со мной можно связаться по электронной почте hodzha (at) gmail.com
 
 
 
